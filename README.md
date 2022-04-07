@@ -3,7 +3,7 @@
 
  <h4 align="center"> 
 
-	🚧  Projeto Calculadora imc 🚀 Em construção...  🚧
+	🚧  Projeto Conversor de moedas 🚀 Em construção...  🚧
 </h4> 
 
 <hr>
