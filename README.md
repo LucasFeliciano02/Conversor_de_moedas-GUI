@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center" id="top">
-  <img alt="Conversor" title="Conversor" src="./gerador.gif"/>
+  <img alt="Conversor" title="Conversor" src="./conversor.gif"/>
 </h1>
 
  
