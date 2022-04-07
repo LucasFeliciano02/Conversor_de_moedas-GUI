@@ -46,7 +46,7 @@
 
 :heavy_check_mark: ;\
 :heavy_check_mark: ;\
-:heavy_check_mark: Usar como aplicativo desktop em seu computador;\
+:heavy_check_mark: ;\
 :heavy_check_mark: Em breve disponibilizarei o executável
 
 ## :rocket: Tecnologias ##
