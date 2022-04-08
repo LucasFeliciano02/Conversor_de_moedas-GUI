@@ -44,7 +44,7 @@
 
 :heavy_check_mark: Colocar a moeda 'de', moeda 'para', o valor e converter;\
 :heavy_check_mark: ;\
-:heavy_check_mark: ;\
+:heavy_check_mark: Usar como aplicativo desktop;\
 :heavy_check_mark: Em breve disponibilizarei o executável
 
 ## :rocket: Tecnologias ##
