@@ -36,13 +36,13 @@
 ## :dart: Sobre ##
 
 ```sh
-• 
+• Conversor de moedas com grafical user interface que utiliza de uma api de cotações para fazer as conversoes em tempo real
 ```
 
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: ;\
+:heavy_check_mark: Colocar a moeda 'de', moeda 'para', o valor e converter;\
 :heavy_check_mark: ;\
 :heavy_check_mark: ;\
 :heavy_check_mark: Em breve disponibilizarei o executável
