@@ -1,7 +1,7 @@
 
 <!-- <h4 align="center"> 
 ---
-	🚧  Projeto Gerador de senha 🚀 Em construção...  🚧
+	🚧  Projeto Conversor de moedas 🚀 Em construção...  🚧
 </h4> 
 
 <hr> -->
@@ -9,9 +9,7 @@
  <h4 align="center"> 
 
 	🚧  Projeto Conversor de moedas 🚀 Em construção...  🚧
-</h4> 
 
-<hr>
 
 <div align="center" id="top">
   <img alt="Conversor" title="Conversor" src="./conversor.gif"/>
