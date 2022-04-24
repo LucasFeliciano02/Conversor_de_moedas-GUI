@@ -37,7 +37,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Conversor de moedas feita com grafical user interface que utiliza de uma api de cotações para fazer as conversoes em tempo real
+• Conversor de moedas feita em grafical user interface (tkinter). Á lógica utiliza de uma api de cotações para fazer as conversoes em tempo real
 ```
 
 ## :sparkles: Funcionalidades ##
