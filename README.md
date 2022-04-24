@@ -45,8 +45,7 @@
 
 :heavy_check_mark: Colocar a moeda 'de', moeda 'para', o valor, e converter;\
 :heavy_check_mark: Muito utilizavel para saber o valor de um produto por exemplo de dolar para real ou vice-versa;\
-:heavy_check_mark: Usar como aplicativo desktop;\
-:heavy_check_mark: Em breve disponibilizarei o executável
+:heavy_check_mark: Utilizar como aplicativo Executável em sua área de trabalho.
 
 ## :rocket: Tecnologias ##
  
