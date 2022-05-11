@@ -45,7 +45,7 @@
 
 :heavy_check_mark: Colocar a moeda 'de', moeda 'para', o valor, e converter;\
 :heavy_check_mark: Muito utilizavel para saber o valor de um produto por exemplo de dolar para real ou vice-versa;\
-:heavy_check_mark: Utilizar como aplicativo Executável em sua área de trabalho com uto-py-to-exe - PyPI.
+:heavy_check_mark: Utilizar como aplicativo Executável em sua área de trabalho com auto-py-to-exe - PyPI.
 
 ## :rocket: Tecnologias ##
  
