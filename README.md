@@ -8,7 +8,7 @@
 
 
 <div align="center" id="top">
-  <img alt="Gerador" title="Gerador" src="./conversor.gif"/>
+  <img alt="Conversor" title="Conversor" src="./conversor.gif"/>
 </h1>
 
  
